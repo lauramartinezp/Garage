@@ -200,7 +200,6 @@ public class VehiculoDaoJDBCImpl implements VehiculoDaoJDBC {
 			
 			}
 		
-		
 		}
 		return vehiculos;
 	
