@@ -19,7 +19,6 @@ public class ClienteDAOFileImpl implements ClienteDAO {
 			
 		Map<String,Cliente> clientes;
 		
-		
 		clientes= new TreeMap<String,Cliente>();		 
 			
 		String linea;
